@@ -1,5 +1,6 @@
 # 具身人工智能（EAI）预备课程：数据结构与算法
 
+[![STEMHUB ROBOTICS](https://img.shields.io/badge/STEMHUB-ROBOTICS-black?style=flat-square&color=black&labelColor=red)](https://your-website-or-repo-link.com)
 [![课程徽章](https://img.shields.io/badge/EAI-Curriculum-00B0FF.svg)](https://embodied-ai.org) 
 [![许可证](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-EF9421)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 [![Python版本](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org)
