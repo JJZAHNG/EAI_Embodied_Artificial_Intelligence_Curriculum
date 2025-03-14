@@ -131,8 +131,8 @@ pip install -r requirements.txt
 - 如有其他使用需求，请联系我们以获得授权许可。
 
 ## 📞 联系方式
-- **课程咨询:** edu@embodied-ai.org
-- **技术支持：** support@embodied-ai.org
+- **课程咨询:** wangyinshen@worldshaper.cn
+- **技术支持：** wangyinshen@worldshaper.cn
 - **社区讨论：** 可以加入我们的 Discord讨论组（示例链接）或通过 Issue 与我们互动
 - **一起探索机器人感知、决策与行动的无限可能，构建智能新时代的核心算法能力！**
 
